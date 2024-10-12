@@ -1,1 +1,1 @@
-# optimizing-marketing-campaigns-through-customer-journey-analysis-with-python-
+# Optimizing-Marketing-Campaigns-Through-Customer-Journey-Analysis-with-python-
