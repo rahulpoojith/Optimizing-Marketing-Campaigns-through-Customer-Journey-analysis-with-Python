@@ -1,4 +1,4 @@
-#  Optimizing-Marketing-Campaigns-Through-Customer-Journey-Analysis-with-python-
+#  Optimizing-Marketing-Campaigns-Through-Customer-Journey-Analysis-with-Python
 ## Project Overview
 ## Problem Statement
  In the highly competitive e-commerce industry, businesses struggle to optimize their marketing campaigns and maximize customer engagement. Understanding the customer journey and identifying key touchpoints is crucial for effective campaign optimization. However, manual analysis of customer data is time-consuming and prone to bias.
